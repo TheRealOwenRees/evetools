@@ -9,7 +9,7 @@ A simple collection of PvP tools for the MMORPG [Eve Online], aiding in your wea
 - Calculate missile damage application
 - Calculate hit accuracy of guns based on the enemy ship's angular velocity etc.
 
-Equations for the mathematcs component of this script can be found at:
+Equations for the mathematics component of this script can be found at:
 - [Targeting](https://wiki.eveuniversity.org/Targeting)
 - [Turret mechanics](https://wiki.eveuniversity.org/Turret_mechanics#Average_damage)
 - [Missile mechanics](https://wiki.eveuniversity.org/Missile_mechanics)
